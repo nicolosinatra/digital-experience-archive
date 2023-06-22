@@ -1,4 +1,4 @@
-# 10 print
+# 10 print variation
 
 ## Cadaveri Squisiti
 
@@ -6,3 +6,10 @@
 
 > Cadavre Exquis with Yves Tanguy, Joan Miró, Max Morise, Man Ray. Nude, 1926–27 | Fonte: [MoMa](https://www.moma.org/collection/works/35701)
 
+Gioco collettivo surrealista, realizzato per la prima volta nel 1925, a Parigi. Consiste nel far comporre una frase da più persone (senza che nessuna possa conoscere l’intervento dell’altra) nella sequenza sostantivo-aggettivo-verbo-sostantivo-aggettivo. Il nome del gioco deriva dalla prima frase che fu ottenuta: le cadavre exquis boira le vin nouveau («il cadavere squisito berrà il vino nuovo»).  
+
+Lo stesso sistema fu adattato al disegno, piegando o coprendo il foglio nelle parti già compilate. Il gioco si inserisce nell’ambito dell’automatismo surrealista e della casuale associazione degli elementi, nella quale tuttavia sembra manifestarsi una sotterranea comunicazione fra i partecipanti.
+
+## Concept
+
+L'idea di progetto trae spunto dal gioco collettivo surrealista, focalizzandosi sulla sua casualità e riproponendolo attraverso la randomicità con cui vengono assemblate parti del volto umano generate da un'intelligenza artificiale, nello specifico tramite [Playground](https://playgroundai.com/)

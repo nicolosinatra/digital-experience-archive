@@ -16,5 +16,6 @@ L'idea di progetto trae spunto dal gioco collettivo surrealista "Cadavre Exquis"
 
 ## Risultato
 
+<img src="https://github.com/nicolosinatra/digital-experience-archive/blob/0e8f5611ae092980e73f0dc45b1f629fefe792ef/nicolosinatra/10%20print.gif" width="100%">
 
-<a href="https://editor.p5js.org/nicolo.sinatra2/sketches/7oBB1GI4n" target="_blank">Sketch</a>
+[Sketch](https://editor.p5js.org/nicolo.sinatra2/sketches/7oBB1GI4n)

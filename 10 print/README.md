@@ -1,6 +1,6 @@
 # 10 print variation
 
-## Cadaveri Squisiti
+## Cadavre Exquis
 
 <img src="https://github.com/nicolosinatra/digital-experience-archive/blob/95861ed29e298f6a5864274e29e3a50d20dc3f2a/nicolosinatra/img/cadaveri%20squisiti.jpeg" width="50%">  
 
@@ -12,4 +12,4 @@ Lo stesso sistema fu adattato al disegno, piegando o coprendo il foglio nelle pa
 
 ## Concept
 
-L'idea di progetto trae spunto dal gioco collettivo surrealista, focalizzandosi sulla sua casualità e riproponendolo attraverso la randomicità con cui vengono assemblate parti del volto umano generate da un'intelligenza artificiale, nello specifico tramite [Playground](https://playgroundai.com/)
+L'idea di progetto trae spunto dal gioco collettivo surrealista "Cadavre Exquis", focalizzandosi sulla sua casualità e riproponendola attraverso la randomicità identitaria di 10 print. Nello specifico vengono assemblate casualmente parti del volto umano generate da un'intelligenza artificiale, nello specifico  [Playground](https://playgroundai.com/)

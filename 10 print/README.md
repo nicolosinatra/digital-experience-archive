@@ -13,3 +13,7 @@ Lo stesso sistema fu adattato al disegno, piegando o coprendo il foglio nelle pa
 ## Concept
 
 L'idea di progetto trae spunto dal gioco collettivo surrealista "Cadavre Exquis", focalizzandosi sulla sua casualità e riproponendola attraverso la randomicità identitaria di 10 print. Nello specifico vengono assemblate casualmente parti del volto umano generate da un'intelligenza artificiale, nello specifico  [Playground](https://playgroundai.com/)
+
+## Risultato
+
+[Sketch](https://editor.p5js.org/nicolo.sinatra2/sketches/7oBB1GI4n)
